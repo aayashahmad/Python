@@ -1,6 +1,14 @@
 # Python3 program to find simple interest
 # for given principal amount, time and
 # rate of interest.
+
+# Input : P = 10000
+#         R = 5
+#         T = 5
+# Output :2500.0
+# We need to find simple interest on 
+# Rs. 10,000 at the rate of 5% for 5 
+# units of time.
  
  
 def simple_interest(p,t,r):
